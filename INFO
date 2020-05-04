@@ -1,7 +1,7 @@
 name: MCP23017
 designer: John Plocher, Seth Neumann
-fabricated: no
-fab_date: YYYY-MM
+fabricated: yes
+fab_date: 2020-04
 status: experimental
 publish: yes
-tags: SPCoast, eagle
+tags: [SPCoast, eagle, I2C]
